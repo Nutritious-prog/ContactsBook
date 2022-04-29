@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Jan</first_name>
+	<last_name>Kowalski</last_name>
+	<phone_number>123456789</phone_number>
+	<notes>Klient</notes>
+</contact>
+<contact>
+	<first_name>Adam</first_name>
+	<last_name>Nowak</last_name>
+	<phone_number>987654321</phone_number>
+	<notes>Mechanik</notes>
+</contact>
+<contact>
+	<first_name>Anna</first_name>
+	<last_name>Prawa</last_name>
+	<phone_number>867453412</phone_number>
+	<notes>Ksiegowa</notes>
+</contact>
+<contact>
+	<first_name>Artur</first_name>
+	<last_name>Włodarczyk</last_name>
+	<phone_number>1234567</phone_number>
+	<notes>ja</notes>
+</contact>
+</contacts>
